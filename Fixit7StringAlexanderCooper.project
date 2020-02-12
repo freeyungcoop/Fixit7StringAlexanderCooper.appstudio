@@ -21,6 +21,14 @@
             "String",
             "String.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Friends",
+            "Friends.json"
+          ]
         }
       ],
       "configxml": null,
